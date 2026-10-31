@@ -6,6 +6,8 @@ Ed25519 signatures (cryptography), and an implementation of the square-and-multi
 This project also demonstrates a successful exchange and the detection of an 
 attacker (Eve) who is modifying the exchange.
 
+Included is also a .docx report which explains the functions, code, tests the code, and a 
+comparison to ECDH
 
 REQUIREMENTS
 
