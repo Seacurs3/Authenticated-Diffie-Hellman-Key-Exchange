@@ -6,8 +6,8 @@ Ed25519 signatures (cryptography), and an implementation of the square-and-multi
 This project also demonstrates a successful exchange and the detection of an 
 attacker (Eve) who is modifying the exchange.
 
-Included is also a .docx report which explains the functions, code, tests the code, and a 
-comparison to ECDH
+This repository also includes a .docx report which explains the functions, code, tests the code, and a 
+comparison to ECDH.
 
 REQUIREMENTS
 
@@ -15,7 +15,7 @@ REQUIREMENTS
 - cryptography 50.0.1
 - pycryptodome 4.2.0
 
-Standard libraries used: secrets, json, time, hashlib, unittest
+Standard libraries used: secrets, json, time, unittest, platform, sys
 
 
 SETUP: 
